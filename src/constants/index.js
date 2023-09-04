@@ -52,22 +52,22 @@ export const statistics = [
 export const products = [
   {
     imgURL: shoe4,
-    name: "Nike Air Jordan-01",
+    name: "Adidas NMD_R1",
     price: "$200.20",
   },
   {
     imgURL: shoe5,
-    name: "Nike Air Jordan-10",
+    name: "Adidas Alphabounce+",
     price: "$210.20",
   },
   {
     imgURL: shoe6,
-    name: "Nike Air Jordan-100",
+    name: "Adidas Harden Vol. 4",
     price: "$220.20",
   },
   {
     imgURL: shoe7,
-    name: "Nike Air Jordan-001",
+    name: "Adidas OZWEEGO TR",
     price: "$230.20",
   },
 ];
