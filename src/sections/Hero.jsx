@@ -16,17 +16,17 @@ const Hero = () => {
       <div className="relative xl:w-2/5 flex flex-col justify-center items-start w-full  max-xl:padding-x pt-28">
         <p className="text-xl font-montserrat text-black">LONG WEEKEND SALE</p>
 
-        <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold">
+        <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[65px] max-sm:leading-[82px] font-bold">
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">
             Up to
           </span>
           <br />
-          <span className="text-white bg-black pt-2 pb-2 inline-block mt-3">
+          <span className="text-white bg-black pt-2 pb-2 inline-block mt-3 px-4">
             50% off
           </span>{" "}
           Thousands of Shoes
         </h1>
-        <p className="font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm">
+        <p className="font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-10 sm:max-w-sm">
           Discover stylish Nike arrivals, quality comfort, and innovation for
           your active life.
         </p>
